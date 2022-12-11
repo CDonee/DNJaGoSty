@@ -1,0 +1,1 @@
+include ':app', ':skin_core1', ':app_skin', ':skin_core2'
